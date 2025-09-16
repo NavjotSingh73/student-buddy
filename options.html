@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Student Buddy - Options</title>
+  <link rel="stylesheet" href="popup.css">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+    label {
+      display: block;
+      margin: 10px 0 5px;
+    }
+    input, select, button {
+      width: 100%;
+      padding: 8px;
+      margin-bottom: 15px;
+      border-radius: 6px;
+      border: 1px solid #ccc;
+    }
+    button {
+      background: #4CAF50;
+      color: white;
+      font-weight: bold;
+      cursor: pointer;
+      border: none;
+    }
+    button:hover {
+      background: #45a049;
+    }
+    .status {
+      margin-top: 10px;
+      color: green;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <h2>Student Buddy Settings</h2>
+
+  <label for="apiKey">Gemini API Key</label>
+  <input type="password" id="apiKey" placeholder="Enter your API key">
+
+  <label for="hintLevel">Default Hint Level</label>
+  <select id="hintLevel">
+    <option value="concept">Conceptual Hint</option>
+    <option value="step">Step-by-step Guidance</option>
+    <option value="solution">Full Solution (not recommended)</option>
+  </select>
+
+  <label for="clicksBeforeSolution">Clicks Before Solution</label>
+  <input type="number" id="clicksBeforeSolution" min="1" value="2">
+
+  <button id="save">Save Settings</button>
+  <div class="status" id="status"></div>
+
+  <script src="options.js"></script>
+</body>
+</html>

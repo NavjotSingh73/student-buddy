@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Student Buddy</title>
+<link rel="stylesheet" href="popup.css" />
+</head>
+<body>
+<div class="container">
+<h3>Student Buddy</h3>
+<textarea id="q" placeholder="Paste problem here"></textarea>
+<div class="controls">
+<select id="level">
+<option value="concept">Concept</option>
+<option value="step">Next Step</option>
+<option value="scaffold">Pseudocode</option>
+<option value="solution">Full Solution</option>
+</select>
+<button id="ask">Ask</button>
+</div>
+<pre id="ans"></pre>
+<div class="small">Set API key in Options.</div>
+<div style="margin-top:8px"><a href="#" id="openOptions">Options</a></div>
+</div>
+<script src="popup.js"></script>
+</body>
+</html>

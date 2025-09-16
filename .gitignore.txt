@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+
+# env / secrets
+.env
+secret-*.json
+api_key.txt
+
+# Editor
+.vscode/
+*.suo
+*.user
+*.log
