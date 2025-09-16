@@ -52,12 +52,11 @@ Enter your OpenAI API Key
 Choose hint level and solution safety settings
 
 🖼️ Screenshots
-🔹 Popup UI
-
-🔹 Options Page
-
-
-
+### Popup UI
+![Popup Screenshot](./screenshots/Screenshot 2025-09-16 215633.png)
+![Popup Screenshot](./screenshots/Screenshot 2025-09-16 215722.png)
+### Options Page
+![Options Screenshot](./screenshots/Screenshot 2025-09-16 215743.png)  
 🖼️ Usage
 
 Open a DSA problem page
