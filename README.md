@@ -30,7 +30,7 @@ student-buddy/
 
 ⚙️ Setup
 1. Clone the Repository
-git clone https://github.com/YOUR_USERNAME/student-buddy.git
+git clone https://github.com/NavjotSingh73/student-buddy.git
 cd student-buddy
 
 2. Load Extension in Chrome
