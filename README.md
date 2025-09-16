@@ -58,6 +58,7 @@ Choose hint level and solution safety settings
 (https://github.com/NavjotSingh73/student-buddy/blob/main/screenshots/Screenshot%202025-09-16%20215722.png)
 ### Options Page
 (https://github.com/NavjotSingh73/student-buddy/blob/main/screenshots/Screenshot%202025-09-16%20215743.png)
+
 🖼️ Usage
 
 Open a DSA problem page
