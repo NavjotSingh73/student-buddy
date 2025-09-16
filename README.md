@@ -54,7 +54,8 @@ Choose hint level and solution safety settings
 🖼️ Screenshots
 ### Popup UI
 [![Popup Screenshot](./screenshots/Screenshot 2025-09-16 215633.png)](https://github.com/NavjotSingh73/student-buddy/blob/main/screenshots/Screenshot%202025-09-16%20215633.png)
-![Popup Screenshot](./screenshots/Screenshot 2025-09-16 215722.png)
+
+[![Popup Screenshot](./screenshots/Screenshot 2025-09-16 215722.png)](https://github.com/NavjotSingh73/student-buddy/blob/main/screenshots/Screenshot%202025-09-16%20215722.png)
 ### Options Page
 ![Options Screenshot](./screenshots/Screenshot 2025-09-16 215743.png)  
 🖼️ Usage
