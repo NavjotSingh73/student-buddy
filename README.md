@@ -51,14 +51,17 @@ Enter your OpenAI API Key
 
 Choose hint level and solution safety settings
 
-🖼️ Screenshots
-### Popup UI
-(https://github.com/NavjotSingh73/student-buddy/blob/main/screenshots/Screenshot%202025-09-16%20215633.png)
+### Screenshots
 
-(https://github.com/NavjotSingh73/student-buddy/blob/main/screenshots/Screenshot%202025-09-16%20215722.png)
-### Options Page
-(https://github.com/NavjotSingh73/student-buddy/blob/main/screenshots/Screenshot%202025-09-16%20215743.png)
+#### Popup UI
 
+![Popup UI Screenshot 1](screenshots/Screenshot%202025-09-16%20215633.png)
+
+![Popup UI Screenshot 2](screenshots/Screenshot%202025-09-16%20215722.png)
+
+#### Options Page
+
+![Options Page Screenshot](screenshots/Screenshot%202025-09-16%20215743.png)
 🖼️ Usage
 
 Open a DSA problem page
