@@ -62,6 +62,7 @@ Choose hint level and solution safety settings
 #### Options Page
 
 ![Options Page Screenshot](screenshots/Screenshot%202025-09-16%20215743.png)
+
 🖼️ Usage
 
 Open a DSA problem page
